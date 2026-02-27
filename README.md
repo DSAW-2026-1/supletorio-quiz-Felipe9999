@@ -28,7 +28,7 @@
 
 > **Nota para el alumno:** Para que tu imagen se vea aquí, asegúrate de que el nombre del archivo coincida.
 
-![Captura de mi pantalla](./resultado.png)
+![Captura de mi pantalla](./Capture.PNG)
 
 ---
 
